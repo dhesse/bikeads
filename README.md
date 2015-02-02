@@ -1,6 +1,8 @@
 Targeted bicycle advertising
 ============================
 
+An on-line version of this notebook can be found [here](http://nbviewer.ipython.org/github/dhesse/bikeads/blob/master/bike_ad_project.ipynb).
+
 Summary
 -------
 
