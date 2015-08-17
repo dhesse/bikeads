@@ -45,7 +45,7 @@ originating from the station that is the most frequent starting point
 trips of customers (those with a one- or three-day pass) and
 subscribers (those with an annual pass). To illustrate the emerging
 pattern, we plot the number of trips to a various destinations,
-labelled by a numerical id rather than the full name [2,3]. It comes
+labelled by a numerical id rather than the full name [2],[3]. It comes
 as no surprise that customers, who probably are tourists or other
 short-term visitors prefer to go to different locations than
 subscribers. To give an example, stations 50, 60, and 70 are the most
